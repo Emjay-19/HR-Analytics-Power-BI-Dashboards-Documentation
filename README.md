@@ -25,36 +25,37 @@ These new columns enriched the dataset and improved segmentation in all three da
 ## 📊 Dashboard 1: Workforce Composition Dashboard
 **Purpose:** Provides a holistic view of the organization’s workforce structure, demographics, and distribution across departments.  
 
-**Key Features:**
+**Key Features**
 - Total employee count and headcount distribution
 - Gender and diversity breakdown
 - Age band and experience segmentation
 - Salary band and department-level workforce distribution
 
 **Key Insights**  
-Workforce is unevenly distributed across departments, highlighting potential staffing imbalances.
-Majority of employees fall within specific age and salary bands, indicating a concentrated workforce segment.
-Diversity ratios vary significantly by department.
+- Workforce is unevenly distributed across departments, highlighting potential staffing imbalances.
+- Majority of employees fall within specific age and salary bands, indicating a concentrated workforce segment.
+- Diversity ratios vary significantly by department.
 
-Why It Matters
-Helps HR leaders understand workforce composition at a glance
-Supports fair workforce planning and diversity initiatives
-Enables data-driven headcount and compensation decisions
-Opportunities Identified
-Rebalance workforce across understaffed departments
-Improve diversity representation in departments with low ratios
-Plan succession strategies based on age and experience bands
+**Why It Matters**  
+- Helps HR leaders understand workforce composition at a glance
+- Supports fair workforce planning and diversity initiatives
+- Enables data-driven headcount and compensation decisions
 
-Data Used
-Employee ID
-Gender, Age Band, Salary Band
-Department
-Job Role
-Distance Category
-Job Level
+**Opportunities Identified**  
+- Rebalance workforce across understaffed departments
+- Improve diversity representation in departments with low ratios
+- Plan succession strategies based on age and experience bands
 
-📉 Dashboard 2: Attrition & Retention Risk Dashboard
-Purpose
+**Data Used**  
+- Employee ID
+- Gender, Age Band, Salary Band
+- Department
+- Job Role
+- Distance Category
+- Job Level
+
+## 📉 Dashboard 2: Attrition & Retention Risk Dashboard
+**Purpose**  
 Analyzes employee attrition patterns and identifies employees at risk of leaving the organization.
 
 Key Features
