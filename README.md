@@ -55,6 +55,9 @@ These new columns enriched the dataset and improved segmentation in all three da
 **Purpose**  
 Analyzes employee attrition patterns and identifies employees at risk of leaving the organization.
 
+<img width="608" height="341" alt="Screenshot 2025-12-11 112403" src="https://github.com/user-attachments/assets/ccbded03-387e-494d-a1e3-427d1c2de96f" />
+
+
 **Key Features**  
 - Total attrition and attrition rate
 - Attrition breakdown by age band, salary band, and department
@@ -84,6 +87,8 @@ Analyzes employee attrition patterns and identifies employees at risk of leaving
 ## 📈 Dashboard 3: Promotion & Career Progression Dashboard
 **Purpose**  
 Evaluates employee promotion readiness and career advancement opportunities within the organization.
+
+<img width="601" height="340" alt="Screenshot 2025-12-11 112554" src="https://github.com/user-attachments/assets/1214bd72-33a4-4f00-882b-bedd576fa8a8" />
 
 **Key Features**  
 - Promotion eligibility overview
