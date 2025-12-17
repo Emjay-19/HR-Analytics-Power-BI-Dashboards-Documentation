@@ -12,6 +12,7 @@ Before building the dashboards in Power BI, several data preprocessing steps wer
 - Distance Category – grouped commute distance into buckets.
 - Retention Risk Score – scored employees based on likelihood of attrition.
 - Promotion Eligibility – identified employees eligible for promotion based on predefined criteria.
+
 These new columns enriched the dataset and improved segmentation in all three dashboards.
 
 
