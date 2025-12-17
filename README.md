@@ -16,10 +16,10 @@ Before building the dashboards in Power BI, several data preprocessing steps wer
 These new columns enriched the dataset and improved segmentation in all three dashboards.
 
 
-4. DAX Measures Used in the Dashboards
-Custom DAX formulas were created in Power BI to support interactive analytics:
-Total Attrition – counts number of employees marked as "Attrition = Yes".
-Attrition Rate – percentage of employees who left compared to total workforce.
-Eligibility Rate – percentage of employees eligible for promotion.
-Eligible Employees – total count of eligible employees.
+3. DAX Measures Used in the Dashboards
+- Custom DAX formulas were created in Power BI to support interactive analytics:
+- Total Attrition – counts number of employees marked as "Attrition = Yes".
+- Attrition Rate – percentage of employees who left compared to total workforce.
+- Eligibility Rate – percentage of employees eligible for promotion.
+- Eligible Employees – total count of eligible employees.
 
