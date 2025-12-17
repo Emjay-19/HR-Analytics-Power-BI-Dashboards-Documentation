@@ -2,7 +2,7 @@
 This repository contains three interactive HR analytics dashboards designed in Power BI. The dashboards focus on Workforce Composition, Attrition &amp; Retention Risk, and Promotion &amp; Career Progression. They are built to help HR teams and business leaders make data-driven decisions around people strategy, talent management, and organizational planning
 
 ## Data Preparation Process (Before Dashboard Design)
-Before building the dashboards in Power BI, several data preprocessing steps were performed to prepare the dataset for analysis and visualization.
+Before building the dashboards in Power BI, several data preprocessing steps were performed to prepare the dataset for analysis and visualization.  
 **1. Converting Text Data into Structured Columns**  
 The original dataset was in text format. Excel shortcut ALT + A + E (Text to Columns) was used to split the data into properly structured columns for easy import into Power BI.
 
@@ -24,6 +24,7 @@ These new columns enriched the dataset and improved segmentation in all three da
 
 ## 📊 Dashboard 1: Workforce Composition Dashboard
 **Purpose:** Provides a holistic view of the organization’s workforce structure, demographics, and distribution across departments.  
+
 **Key Features:**
 - Total employee count and headcount distribution
 - Gender and diversity breakdown
