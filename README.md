@@ -26,6 +26,9 @@ These new columns enriched the dataset and improved segmentation in all three da
 ## 📊 Dashboard 1: Workforce Composition Dashboard
 **Purpose:** Provides a holistic view of the organization’s workforce structure, demographics, and distribution across departments.  
 
+<img width="604" height="339" alt="Screenshot 2025-12-11 202758" src="https://github.com/user-attachments/assets/416cb117-2b86-48e7-9c87-8008240d174d" />
+
+
 **Key Features**
 - Total employee count and headcount distribution
 - Gender and diversity breakdown
