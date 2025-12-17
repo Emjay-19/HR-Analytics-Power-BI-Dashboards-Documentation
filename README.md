@@ -14,6 +14,7 @@ Before building the dashboards in Power BI, several data preprocessing steps wer
 - Promotion Eligibility – identified employees eligible for promotion based on predefined criteria.
 These new columns enriched the dataset and improved segmentation in all three dashboards.
 
+
 4. DAX Measures Used in the Dashboards
 Custom DAX formulas were created in Power BI to support interactive analytics:
 Total Attrition – counts number of employees marked as "Attrition = Yes".
