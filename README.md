@@ -3,7 +3,7 @@ This repository contains three interactive HR analytics dashboards designed in P
 
 ## Data Preparation Process (Before Dashboard Design)
 Before building the dashboards in Power BI, several data preprocessing steps were performed to prepare the dataset for analysis and visualization.
-1. Converting Text Data into Structured Columns 
+1. Converting Text Data into Structured Columns  
 The original dataset was in text format. Excel shortcut ALT + A + E (Text to Columns) was used to split the data into properly structured columns for easy import into Power BI.
 
 2. Additional Columns Created for Analysis: To enhance insights and enable more advanced calculations, the following new columns were added;
@@ -11,8 +11,7 @@ The original dataset was in text format. Excel shortcut ALT + A + E (Text to Col
 - Age Band – categorized employees by age groups.
 - Distance Category – grouped commute distance into buckets.
 - Retention Risk Score – scored employees based on likelihood of attrition.
-- Promotion Eligibility – identified employees eligible for promotion based on predefined criteria.
-
+- Promotion Eligibility – identified employees eligible for promotion based on predefined criteria.  
 These new columns enriched the dataset and improved segmentation in all three dashboards.
 
 
