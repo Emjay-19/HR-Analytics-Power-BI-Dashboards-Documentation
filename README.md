@@ -107,6 +107,3 @@ Evaluates employee promotion readiness and career advancement opportunities with
 - Eligible Employees
 - Eligibility Rate
 
-
-Eligible Employees
-Eligibility Rate
