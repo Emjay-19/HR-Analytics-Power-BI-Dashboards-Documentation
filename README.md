@@ -3,10 +3,10 @@ This repository contains three interactive HR analytics dashboards designed in P
 
 ## Data Preparation Process (Before Dashboard Design)
 Before building the dashboards in Power BI, several data preprocessing steps were performed to prepare the dataset for analysis and visualization.
-1. Converting Text Data into Structured Columns  
+**1. Converting Text Data into Structured Columns**  
 The original dataset was in text format. Excel shortcut ALT + A + E (Text to Columns) was used to split the data into properly structured columns for easy import into Power BI.
 
-2. Additional Columns Created for Analysis: To enhance insights and enable more advanced calculations, the following new columns were added;
+**2. Additional Columns Created for Analysis:** To enhance insights and enable more advanced calculations, the following new columns were added;
 - Salary Band – grouped employees into salary ranges.
 - Age Band – categorized employees by age groups.
 - Distance Category – grouped commute distance into buckets.
@@ -15,7 +15,7 @@ The original dataset was in text format. Excel shortcut ALT + A + E (Text to Col
 These new columns enriched the dataset and improved segmentation in all three dashboards.
 
 
-3. DAX Measures Used in the Dashboards
+**3. DAX Measures Used in the Dashboards**
 - Custom DAX formulas were created in Power BI to support interactive analytics:
 - Total Attrition – counts number of employees marked as "Attrition = Yes".
 - Attrition Rate – percentage of employees who left compared to total workforce.
@@ -23,15 +23,14 @@ These new columns enriched the dataset and improved segmentation in all three da
 - Eligible Employees – total count of eligible employees.
 
 ## 📊 Dashboard 1: Workforce Composition Dashboard
-*Purpose*
-Provides a holistic view of the organization’s workforce structure, demographics, and distribution across departments.
-Key Features:
-Total employee count and headcount distribution
-Gender and diversity breakdown
-Age band and experience segmentation
-Salary band and department-level workforce distribution
+**Purpose:** Provides a holistic view of the organization’s workforce structure, demographics, and distribution across departments.  
+**Key Features:**
+- Total employee count and headcount distribution
+- Gender and diversity breakdown
+- Age band and experience segmentation
+- Salary band and department-level workforce distribution
 
-Key Insights
+**Key Insights**  
 Workforce is unevenly distributed across departments, highlighting potential staffing imbalances.
 Majority of employees fall within specific age and salary bands, indicating a concentrated workforce segment.
 Diversity ratios vary significantly by department.
