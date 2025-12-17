@@ -74,8 +74,8 @@ Analyzes employee attrition patterns and identifies employees at risk of leaving
 - Implement flexible or remote work options for long-distance commuters
 
 **DAX Measures Used**  
-Total Attrition
-Attrition Rate
+- Total Attrition
+- Attrition Rate
 
 
 ## 📈 Dashboard 3: Promotion & Career Progression Dashboard
@@ -104,8 +104,8 @@ Evaluates employee promotion readiness and career advancement opportunities with
 - Strengthen internal mobility and succession planning
 
 **DAX Measures Used**  
-Eligible Employees
-Eligibility Rate
+- Eligible Employees
+- Eligibility Rate
 
 
 Eligible Employees
