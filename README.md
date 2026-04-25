@@ -115,3 +115,18 @@ Evaluates employee promotion readiness and career advancement opportunities with
 - Eligible Employees
 - Eligibility Rate
 
+**Limitations**
+Dataset may not include external factors like economic conditions or competitor influence
+Limited behavioral/qualitative data (e.g., employee feedback)
+Static snapshot; does not capture real-time workforce changes
+Some metrics (e.g., satisfaction scores) may be subjective
+
+**Recommendations**
+- Focus on reducing attrition in Research & Development through engagement strategies
+- Review compensation for mid-salary employees (2001–5000 range)
+- Improve career growth opportunities, as only 5.6% are promotion-ready
+- Strengthen retention plans for high-risk employees (~19%)
+- Balance workforce structure by developing higher-level talent
+
+**Conclusion**
+The analysis highlights key workforce challenges, including moderate attrition (16%), limited promotion readiness, and concentration of risk in specific departments. By addressing these areas, organizations can improve employee retention, enhance performance, and build a more sustainable talent pipeline.
