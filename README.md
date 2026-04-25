@@ -116,10 +116,10 @@ Evaluates employee promotion readiness and career advancement opportunities with
 - Eligibility Rate
 
 **Limitations**
-Dataset may not include external factors like economic conditions or competitor influence
-Limited behavioral/qualitative data (e.g., employee feedback)
-Static snapshot; does not capture real-time workforce changes
-Some metrics (e.g., satisfaction scores) may be subjective
+- Dataset may not include external factors like economic conditions or competitor influence
+- Limited behavioral/qualitative data (e.g., employee feedback)
+- Static snapshot; does not capture real-time workforce changes
+- Some metrics (e.g., satisfaction scores) may be subjective
 
 **Recommendations**
 - Focus on reducing attrition in Research & Development through engagement strategies
@@ -129,4 +129,5 @@ Some metrics (e.g., satisfaction scores) may be subjective
 - Balance workforce structure by developing higher-level talent
 
 **Conclusion**
+
 The analysis highlights key workforce challenges, including moderate attrition (16%), limited promotion readiness, and concentration of risk in specific departments. By addressing these areas, organizations can improve employee retention, enhance performance, and build a more sustainable talent pipeline.
