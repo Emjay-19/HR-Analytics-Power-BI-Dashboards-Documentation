@@ -1,5 +1,22 @@
 # HR-Analytics-Power-BI-Dashboards-Documentation
-This repository contains three interactive HR analytics dashboards designed in Power BI. The dashboards focus on Workforce Composition, Attrition &amp; Retention Risk, and Promotion &amp; Career Progression. They are built to help HR teams and business leaders make data-driven decisions around people strategy, talent management, and organizational planning
+## Project Overview
+
+This project analyzes workforce data to understand employee composition, retention risks, and career progression. The dashboard provides insights into demographics, attrition patterns, and promotion readiness to support better HR decision-making.
+
+## Data Source
+
+The dataset contains employee records, including demographics (age, gender, marital status), job details (role, department, level), performance ratings, job satisfaction, salary bands, and attrition status.
+
+## Problem Statement
+
+Organizations often struggle with high employee turnover, unclear promotion pathways, and uneven workforce distribution. This project aims to identify key drivers of attrition, evaluate retention risks, and assess employee readiness for career growth.
+
+## Tools and Methodology
+Tools: Power BI (for visualization)
+Methodology:
+Aggregation and grouping (department, job role, salary band)
+Exploratory Data Analysis (EDA)
+Dashboard creation with interactive filters
 
 ## Data Preparation Process (Before Dashboard Design)
 Before building the dashboards in Power BI, several data preprocessing steps were performed to prepare the dataset for analysis and visualization.  
@@ -114,6 +131,23 @@ Evaluates employee promotion readiness and career advancement opportunities with
 **DAX Measures Used**  
 - Eligible Employees
 - Eligibility Rate
+
+## Key Analysis Findings
+Total employees: 1,470
+Attrition count: 237 (16%)
+Gender distribution: 60% Male (882), 40% Female (588)
+Majority age group: 26–35 (606 employees, ~41%)
+Entry-level roles dominate: Level 1 & 2 = 1,077 employees (~73%)
+Highest attrition by department:
+Research & Development: 133 employees (~56% of total attrition)
+Salary impact:
+Employees earning 2001–5000 account for 145 attritions (~61%)
+Retention risk:
+Low risk: 865 employees (~59%)
+Medium risk: 324 employees (~22%)
+High risk: 281 employees (~19%)
+Promotion readiness:
+Only 82 employees (~5.6%) are eligible for promotion
 
 **Limitations**
 - Dataset may not include external factors like economic conditions or competitor influence
